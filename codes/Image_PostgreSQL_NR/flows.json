@@ -1,0 +1,2913 @@
+[
+    {
+        "id": "92c0497934ccde86",
+        "type": "tab",
+        "label": "Input Data",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d19d1b39aea72fe2",
+        "type": "tab",
+        "label": "View Data",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e02c76df6250da4f",
+        "type": "group",
+        "z": "92c0497934ccde86",
+        "name": "Input Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "273cea9c155f2d4b",
+            "59d4ea084081a19b",
+            "8d43bef34e282889",
+            "5d1d11476f51a0c6",
+            "99ef8761fe33465b",
+            "b025b24f802eee89",
+            "eca4a138252d0eeb",
+            "e2e78105b8ec57f9",
+            "431227bdabafc65b",
+            "cfd86b4e83448d45",
+            "5d13d01c2d14f198",
+            "77e253e5d49c94ad",
+            "107d1cf6bdaf5702",
+            "d0f2c9f05ffb95a9",
+            "afa1833daeddd026",
+            "23665233ab92b6cf",
+            "7e5735aa8ab2d8d0",
+            "d0fbd7855187bbe4",
+            "c8bc4235b36c8c05",
+            "01a2eb8e0d87015e"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 1492,
+        "h": 422
+    },
+    {
+        "id": "0668c0f80649c812",
+        "type": "group",
+        "z": "92c0497934ccde86",
+        "name": "View Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "abdad7b56f0a1b39",
+            "4fbd4d2aad6d0444",
+            "e943870990459805",
+            "b3de89d58ea91008",
+            "1a13c22e379fef15",
+            "4304c4ca9cad61fc"
+        ],
+        "x": 34,
+        "y": 459,
+        "w": 802,
+        "h": 122
+    },
+    {
+        "id": "a4309563af45d9f4",
+        "type": "group",
+        "z": "92c0497934ccde86",
+        "name": "Update",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f57cb657bc921b9d",
+            "e57916549f5c97d6",
+            "3bf4c71150bd0524",
+            "7b741ef2d40a78d7",
+            "a1a9339839f7131a",
+            "f59fcb5c434b3fe3",
+            "b807a5c3f703bcec",
+            "bdc6d8155fd79d67",
+            "476c8db18d670473",
+            "b583965bf1bae924",
+            "937c86720a4bcb07",
+            "eefc7c4c31ab8443",
+            "b5956511af0f0c4e",
+            "894e8ee5f48eb13c",
+            "84ca340d2cf399ea",
+            "b7e2af5dcd68f592",
+            "8b1db909aa2da7cf",
+            "1e6aec21e49f746f",
+            "a0f155b9d2718e12",
+            "c0fbbc234e895293",
+            "7c9e22c1ec5a3a80",
+            "73e2bed92a538cb1",
+            "3ea30b4465b85e67",
+            "da93a03e7654e22a",
+            "3dde646c5d8bc79c",
+            "0ce04d7db2a53bc9",
+            "cb024c7faaa2c8cb",
+            "e837883237dc8bc6",
+            "8f9ed8b26a7d8f92",
+            "d59bd508f5bf0480",
+            "3b92bc9376dd503a",
+            "87029537caa2c969",
+            "9833d8b1d67d96c3"
+        ],
+        "x": 34,
+        "y": 599,
+        "w": 1512,
+        "h": 362
+    },
+    {
+        "id": "30a44f7dbd5832f6",
+        "type": "group",
+        "z": "d19d1b39aea72fe2",
+        "name": "View Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b56c9208550abc13",
+            "78ab41439ed4661b",
+            "73caa6874b04a962",
+            "0338f4ce3f09e43f",
+            "77f70db4eeb42f51",
+            "5ef8cfa2e2577761",
+            "70f6de2071240101"
+        ],
+        "x": 54,
+        "y": 59,
+        "w": 802,
+        "h": 122
+    },
+    {
+        "id": "13d7d8b6ccced234",
+        "type": "group",
+        "z": "d19d1b39aea72fe2",
+        "name": "Filter",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c9fbd88e6b90002b",
+            "a5144be6eb77632f",
+            "20b9e7ae0835a23b",
+            "2e232407940d903c",
+            "6f6092323e499d9b",
+            "3f38526a850d3b73",
+            "192348a937870f06",
+            "1a4bbc7735642d5b",
+            "9ebeb30209251f23",
+            "cbfc9820e058c50c",
+            "aac4bae0d6f7025b",
+            "805af0364d8b0b8a",
+            "846481c1da2d6ac7",
+            "63ba135aef2f492f",
+            "6f80de33d09744b4"
+        ],
+        "x": 54,
+        "y": 219,
+        "w": 1422,
+        "h": 142
+    },
+    {
+        "id": "71024861cde00873",
+        "type": "group",
+        "z": "d19d1b39aea72fe2",
+        "name": "View Details",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "76406dda19635858",
+            "d63eda6d327441e6",
+            "10c07a947623e7b9",
+            "35af08a8678ca208",
+            "0c84fa0dbdaf333c",
+            "7d8f9705eaa57b36",
+            "d4c506e4e9628f9c",
+            "6f644654b0107871",
+            "0905be74a732044c",
+            "3de1b7056fa4e72f",
+            "3f9efb78e3588a73",
+            "e3d507cf9e46b9cd",
+            "e118e011d78661af",
+            "ed3e0116094706fc",
+            "38b49a66b6191b56"
+        ],
+        "x": 54,
+        "y": 399,
+        "w": 1232,
+        "h": 242
+    },
+    {
+        "id": "1d9b463538f6e32c",
+        "type": "postgresDB",
+        "name": "Testing",
+        "throwErrors": true,
+        "throwErrorsFieldType": "bool",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": "5432",
+        "portFieldType": "num",
+        "database": "testing",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "max": "10",
+        "maxFieldType": "num",
+        "min": "1",
+        "minFieldType": "num",
+        "idle": "1000",
+        "idleFieldType": "num",
+        "connectionTimeout": "10000",
+        "connectionTimeoutFieldType": "num",
+        "user": "postgres",
+        "userFieldType": "str",
+        "password": "123",
+        "passwordFieldType": "str"
+    },
+    {
+        "id": "e146701c9c6788b4",
+        "type": "ui-base",
+        "name": "Products",
+        "path": "/dashboard",
+        "appIcon": "",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-form",
+            "ui-text-input",
+            "ui-button",
+            "ui-dropdown",
+            "ui-text",
+            "ui-table",
+            "ui-chart",
+            "ui-gauge",
+            "ui-markdown",
+            "ui-template",
+            "ui-number-input",
+            "ui-button-group",
+            "ui-switch",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "navigationStyle": "default",
+        "titleBarStyle": "default"
+    },
+    {
+        "id": "9d8bfd7e0d216779",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#0a3e66",
+            "primary": "#15617e",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px",
+            "density": "default"
+        }
+    },
+    {
+        "id": "d66c46414cfef181",
+        "type": "ui-page",
+        "name": "Input Data",
+        "ui": "e146701c9c6788b4",
+        "path": "/input",
+        "icon": "file-upload-outline",
+        "layout": "grid",
+        "theme": "9d8bfd7e0d216779",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "d8630a65694c92bb",
+        "type": "ui-group",
+        "name": "Input Data",
+        "page": "d66c46414cfef181",
+        "width": "12",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "4a5ccc799b5aada0",
+        "type": "ui-group",
+        "name": "View & Edit Data",
+        "page": "d66c46414cfef181",
+        "width": "12",
+        "height": "1",
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "7db7be465c2815ce",
+        "type": "ui-group",
+        "name": "Edit",
+        "page": "d66c46414cfef181",
+        "width": "8",
+        "height": "1",
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "dialog"
+    },
+    {
+        "id": "c33bb2b5392353aa",
+        "type": "ui-page",
+        "name": "View Data",
+        "ui": "e146701c9c6788b4",
+        "path": "/view",
+        "icon": "table-eye",
+        "layout": "grid",
+        "theme": "9d8bfd7e0d216779",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "475018338d019f57",
+        "type": "ui-group",
+        "name": "Data Table",
+        "page": "c33bb2b5392353aa",
+        "width": "12",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "e3e9d3899dee502c",
+        "type": "ui-group",
+        "name": "View Details",
+        "page": "c33bb2b5392353aa",
+        "width": "6",
+        "height": "1",
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "dialog"
+    },
+    {
+        "id": "273cea9c155f2d4b",
+        "type": "ui-file-input",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "group": "d8630a65694c92bb",
+        "name": "",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "topic": "topic",
+        "topicType": "msg",
+        "label": "Upload Image",
+        "icon": "paperclip",
+        "allowMultiple": false,
+        "accept": "",
+        "className": "",
+        "x": 140,
+        "y": 220,
+        "wires": [
+            [
+                "8d43bef34e282889",
+                "b025b24f802eee89"
+            ]
+        ]
+    },
+    {
+        "id": "59d4ea084081a19b",
+        "type": "join",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "mode": "custom",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "useparts": false,
+        "accumulate": false,
+        "timeout": "",
+        "count": "2",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 550,
+        "y": 300,
+        "wires": [
+            [
+                "5d1d11476f51a0c6"
+            ]
+        ]
+    },
+    {
+        "id": "8d43bef34e282889",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "image",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "filename",
+                "pt": "msg",
+                "to": "file.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "file.type",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 220,
+        "wires": [
+            [
+                "59d4ea084081a19b",
+                "afa1833daeddd026"
+            ]
+        ]
+    },
+    {
+        "id": "5d1d11476f51a0c6",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "function 5",
+        "func": "const item_no = msg.payload.form.item_no;\nconst item_name = msg.payload.form.item_name;\nconst vendor = msg.payload.form.vendor;\nconst price = msg.payload.form.price;\nconst picture = msg.payload.image; // Ambil data gambar dari flow context\n\n// Konversi gambar ke format BYTEA (hex)\nlet pictureHex = '';\nif (picture !== \"\") {\n    pictureHex = '\\\\x' + picture.toString('hex'); // Format PostgreSQL BYTEA\n}\n\nmsg.image = pictureHex;\nmsg.family = msg.payload.form.family;\nmsg.subfamily = msg.payload.form.subfamily;\nmsg.item_no = item_no;\nmsg.item_name = item_name;\nmsg.vendor = vendor;\nmsg.price = price;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 300,
+        "wires": [
+            [
+                "99ef8761fe33465b"
+            ]
+        ]
+    },
+    {
+        "id": "99ef8761fe33465b",
+        "type": "postgrestor",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "Insert Data",
+        "query": "INSERT INTO master_sku (item_no,family,subfamily,item_name, vendor, price, image,filename,image_type) \nVALUES ('{{msg.item_no}}', '{{msg.family}}', '{{msg.subfamily}}', '{{msg.item_name}}', '{{msg.vendor}}', {{msg.price}},'{{msg.image}}',\n'{{msg.filename}}','{{msg.type}}')",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 870,
+        "y": 300,
+        "wires": [
+            [
+                "e2e78105b8ec57f9"
+            ]
+        ]
+    },
+    {
+        "id": "b025b24f802eee89",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "function 7",
+        "func": "let imageBuffer = Buffer.from(msg.payload);\nlet base64String = imageBuffer.toString('base64');\nmsg.payload = \"data:image/png;base64,\" + base64String;\nmsg.payload = {\n    image: \"data:image/png;base64,\" + base64String\n    }\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 60,
+        "wires": [
+            [
+                "eca4a138252d0eeb"
+            ]
+        ]
+    },
+    {
+        "id": "eca4a138252d0eeb",
+        "type": "ui-template",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "group": "d8630a65694c92bb",
+        "page": "",
+        "ui": "",
+        "name": "Preview",
+        "order": 4,
+        "width": "6",
+        "height": "1",
+        "head": "",
+        "format": "<template>\n    <div><H4>Image Preview:</H4></div>\n    <div class=\"image-container\">\n        <img v-if=\"msg?.payload?.image\" :src=\"msg.payload.image\" style=\"height: 250px;\" />\n    </div>\n</template>\n\n<script>\nexport default {\n    data() {\n        return {\n            mounted: false\n        };\n    },\n    mounted() {\n        this.mounted = true;\n    }\n};\n</script>\n\n<style scoped>\n.image-container {\n    display: flex;\n    justify-content: center; /* Tengah secara horizontal */\n    align-items: center; /* Tengah secara vertikal */\n    width: 100%; /* Sesuaikan dengan group */\n    height: 100%; /* Sesuaikan dengan group */\n}\n</style>\n",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 700,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f57cb657bc921b9d",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Reset",
+        "func": "msg.payload = { image: null };\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 640,
+        "wires": [
+            [
+                "3bf4c71150bd0524"
+            ]
+        ]
+    },
+    {
+        "id": "e57916549f5c97d6",
+        "type": "inject",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload.image",
+                "v": "",
+                "vt": "str"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 770,
+        "y": 640,
+        "wires": [
+            [
+                "f57cb657bc921b9d"
+            ]
+        ]
+    },
+    {
+        "id": "3bf4c71150bd0524",
+        "type": "ui-template",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "group": "7db7be465c2815ce",
+        "page": "",
+        "ui": "",
+        "name": "Display image",
+        "order": 3,
+        "width": "4",
+        "height": "1",
+        "head": "",
+        "format": "<template>\n    <div class=\"image-container\">\n        <img v-if=\"msg?.payload?.image\" :src=\"msg.payload.image\" style=\"height: 320px;\" />\n    </div>\n</template>\n\n<script>\nexport default {\n    data() {\n        return {\n            mounted: false\n        };\n    },\n    mounted() {\n        this.mounted = true;\n    }\n};\n</script>\n\n<style scoped>\n.image-container {\n    display: flex;\n    justify-content: center; /* Tengah secara horizontal */\n    align-items: center; /* Tengah secara vertikal */\n    width: 100%; /* Sesuaikan dengan group */\n    height: 100%; /* Sesuaikan dengan group */\n}\n</style>\n",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1120,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e2e78105b8ec57f9",
+        "type": "switch",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "property": "payload.rowCount",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1050,
+        "y": 300,
+        "wires": [
+            [
+                "cfd86b4e83448d45",
+                "107d1cf6bdaf5702"
+            ]
+        ]
+    },
+    {
+        "id": "431227bdabafc65b",
+        "type": "ui-notification",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "ui": "e146701c9c6788b4",
+        "position": "top right",
+        "colorDefault": true,
+        "color": "#000000",
+        "displayTime": "3",
+        "showCountdown": true,
+        "outputs": 1,
+        "allowDismiss": true,
+        "dismissText": "Close",
+        "allowConfirm": false,
+        "confirmText": "Confirm",
+        "raw": true,
+        "className": "",
+        "name": "",
+        "x": 1410,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cfd86b4e83448d45",
+        "type": "template",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Data recorded into Database succesfully!",
+        "output": "str",
+        "x": 1200,
+        "y": 300,
+        "wires": [
+            [
+                "431227bdabafc65b"
+            ]
+        ]
+    },
+    {
+        "id": "5d13d01c2d14f198",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "Reset",
+        "func": "msg.payload = { image: null };\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 180,
+        "wires": [
+            [
+                "eca4a138252d0eeb"
+            ]
+        ]
+    },
+    {
+        "id": "abdad7b56f0a1b39",
+        "type": "ui-button",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "group": "4a5ccc799b5aada0",
+        "name": "",
+        "label": "Show All Data",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 140,
+        "y": 500,
+        "wires": [
+            [
+                "4fbd4d2aad6d0444"
+            ]
+        ]
+    },
+    {
+        "id": "4fbd4d2aad6d0444",
+        "type": "postgrestor",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "name": "Get Data All",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price, encode(image, 'base64') AS image,filename, image_type\nFROM master_sku order by family",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 330,
+        "y": 500,
+        "wires": [
+            [
+                "e943870990459805"
+            ]
+        ]
+    },
+    {
+        "id": "77e253e5d49c94ad",
+        "type": "inject",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload.image",
+                "v": "",
+                "vt": "str"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 390,
+        "y": 100,
+        "wires": [
+            [
+                "5d13d01c2d14f198"
+            ]
+        ]
+    },
+    {
+        "id": "e943870990459805",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "name": "array",
+        "func": "var i;\nvar list_data = [];\nvar image_type\n\nfor (i = 0; i < msg.payload.rows.length; i++) {\n    image_type = msg.payload.rows[i].image_type.replace(/&#x2F;/g, \"/\");\n    list_data.push({\n        \"Item No\": msg.payload.rows[i].item_no,\n        \"Family\": msg.payload.rows[i].family,\n        \"Sub Family\": msg.payload.rows[i].subfamily,\n        \"Item Name\": msg.payload.rows[i].item_name,\n        \"Vendor\": msg.payload.rows[i].vendor,\n        \"Price\": msg.payload.rows[i].price,\n        \"Filename\": msg.payload.rows[i].filename,\n        //\"Image\": \"data:\" + image_type + \";base64,\" + msg.payload.rows[0].image\n    });\n}\n\nmsg.payload = list_data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 500,
+        "wires": [
+            [
+                "b3de89d58ea91008"
+            ]
+        ]
+    },
+    {
+        "id": "b3de89d58ea91008",
+        "type": "ui-table",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "group": "4a5ccc799b5aada0",
+        "name": "",
+        "label": "Data",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "maxrows": 0,
+        "passthru": false,
+        "autocols": true,
+        "showSearch": true,
+        "selectionType": "click",
+        "columns": [],
+        "mobileBreakpoint": "sm",
+        "mobileBreakpointType": "defaults",
+        "action": "replace",
+        "x": 670,
+        "y": 500,
+        "wires": [
+            [
+                "1a13c22e379fef15"
+            ]
+        ]
+    },
+    {
+        "id": "1a13c22e379fef15",
+        "type": "link out",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [
+            "7b741ef2d40a78d7"
+        ],
+        "x": 795,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "7b741ef2d40a78d7",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link in 1",
+        "links": [
+            "1a13c22e379fef15",
+            "46e4b935f3831a2f"
+        ],
+        "x": 75,
+        "y": 640,
+        "wires": [
+            [
+                "f59fcb5c434b3fe3"
+            ]
+        ]
+    },
+    {
+        "id": "a1a9339839f7131a",
+        "type": "postgrestor",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Get Image",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price, encode(image, 'base64') AS image,filename, image_type\nFROM master_sku\nWhere item_no='{{msg.item_no}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 750,
+        "y": 680,
+        "wires": [
+            [
+                "b583965bf1bae924",
+                "b5956511af0f0c4e"
+            ]
+        ]
+    },
+    {
+        "id": "f59fcb5c434b3fe3",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "item_no",
+                "pt": "flow",
+                "to": "payload[\"Item No\"]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 200,
+        "y": 640,
+        "wires": [
+            [
+                "bdc6d8155fd79d67"
+            ]
+        ]
+    },
+    {
+        "id": "b807a5c3f703bcec",
+        "type": "ui-control",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "ui": "e146701c9c6788b4",
+        "events": "all",
+        "x": 400,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bdc6d8155fd79d67",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Show",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"groups\":{\"show\":[\"Input Data:Edit\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 640,
+        "wires": [
+            [
+                "b807a5c3f703bcec",
+                "eefc7c4c31ab8443"
+            ]
+        ]
+    },
+    {
+        "id": "476c8db18d670473",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Hide",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"groups\":{\"hide\":[\"Input Data:Edit\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 800,
+        "wires": [
+            [
+                "84ca340d2cf399ea"
+            ]
+        ]
+    },
+    {
+        "id": "b583965bf1bae924",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "function 193",
+        "func": "let image_type = msg.payload.rows[0].image_type.replace(/&#x2F;/g, \"/\");\nlet image = \"data:\" + image_type + \";base64,\" + msg.payload.rows[0].image;\nmsg.payload = {\n    image: image\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 680,
+        "wires": [
+            [
+                "3bf4c71150bd0524"
+            ]
+        ]
+    },
+    {
+        "id": "937c86720a4bcb07",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "array",
+        "func": "\nmsg.payload = {\n    \"item_no\": msg.payload.rows[0].item_no,\n    \"family\": msg.payload.rows[0].family,\n    \"subfamily\": msg.payload.rows[0].subfamily,\n    \"item_name\": msg.payload.rows[0].item_name,\n    \"vendor\": msg.payload.rows[0].vendor,\n    \"price\": msg.payload.rows[0].price\n}\nmsg.enabled = false\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 760,
+        "wires": [
+            [
+                "e837883237dc8bc6"
+            ]
+        ]
+    },
+    {
+        "id": "eefc7c4c31ab8443",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "item_no",
+                "pt": "msg",
+                "to": "item_no",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 680,
+        "wires": [
+            [
+                "a1a9339839f7131a"
+            ]
+        ]
+    },
+    {
+        "id": "b5956511af0f0c4e",
+        "type": "link out",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "894e8ee5f48eb13c"
+        ],
+        "x": 875,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "894e8ee5f48eb13c",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link in 2",
+        "links": [
+            "b5956511af0f0c4e"
+        ],
+        "x": 75,
+        "y": 760,
+        "wires": [
+            [
+                "937c86720a4bcb07"
+            ]
+        ]
+    },
+    {
+        "id": "84ca340d2cf399ea",
+        "type": "link out",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link out 3",
+        "mode": "link",
+        "links": [
+            "b7e2af5dcd68f592",
+            "4304c4ca9cad61fc",
+            "f7b4e0d426bfd747"
+        ],
+        "x": 1485,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "b7e2af5dcd68f592",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link in 3",
+        "links": [
+            "84ca340d2cf399ea"
+        ],
+        "x": 265,
+        "y": 680,
+        "wires": [
+            [
+                "b807a5c3f703bcec"
+            ]
+        ]
+    },
+    {
+        "id": "107d1cf6bdaf5702",
+        "type": "link out",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "d0f2c9f05ffb95a9",
+            "d0fbd7855187bbe4"
+        ],
+        "x": 1155,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "d0f2c9f05ffb95a9",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "link in 4",
+        "links": [
+            "107d1cf6bdaf5702"
+        ],
+        "x": 425,
+        "y": 140,
+        "wires": [
+            [
+                "5d13d01c2d14f198"
+            ]
+        ]
+    },
+    {
+        "id": "8b1db909aa2da7cf",
+        "type": "ui-file-input",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "group": "7db7be465c2815ce",
+        "name": "",
+        "order": 1,
+        "width": "4",
+        "height": "1",
+        "topic": "topic",
+        "topicType": "msg",
+        "label": "Change Image",
+        "icon": "paperclip",
+        "allowMultiple": false,
+        "accept": "",
+        "className": "",
+        "x": 200,
+        "y": 920,
+        "wires": [
+            [
+                "1e6aec21e49f746f",
+                "7c9e22c1ec5a3a80"
+            ]
+        ]
+    },
+    {
+        "id": "1e6aec21e49f746f",
+        "type": "link out",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link out 5",
+        "mode": "link",
+        "links": [
+            "a0f155b9d2718e12"
+        ],
+        "x": 355,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "a0f155b9d2718e12",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "link in 5",
+        "links": [
+            "1e6aec21e49f746f"
+        ],
+        "x": 805,
+        "y": 760,
+        "wires": [
+            [
+                "c0fbbc234e895293"
+            ]
+        ]
+    },
+    {
+        "id": "c0fbbc234e895293",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "function 194",
+        "func": "let imageBuffer = Buffer.from(msg.payload);\nlet base64String = imageBuffer.toString('base64');\nmsg.payload = \"data:image/png;base64,\" + base64String;\nmsg.payload = {\n    image: \"data:image/png;base64,\" + base64String\n    }\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 760,
+        "wires": [
+            [
+                "3bf4c71150bd0524"
+            ]
+        ]
+    },
+    {
+        "id": "7c9e22c1ec5a3a80",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "image",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "filename",
+                "pt": "msg",
+                "to": "file.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "file.type",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 860,
+        "wires": [
+            [
+                "73e2bed92a538cb1",
+                "d59bd508f5bf0480"
+            ]
+        ]
+    },
+    {
+        "id": "73e2bed92a538cb1",
+        "type": "join",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "mode": "custom",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "useparts": false,
+        "accumulate": false,
+        "timeout": "",
+        "count": "2",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 610,
+        "y": 860,
+        "wires": [
+            [
+                "3b92bc9376dd503a"
+            ]
+        ]
+    },
+    {
+        "id": "3ea30b4465b85e67",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "function 195",
+        "func": "const item_no = msg.payload.form.item_no;\nconst item_name = msg.payload.form.item_name;\nconst vendor = msg.payload.form.vendor;\nconst price = msg.payload.form.price;\nconst picture = msg.payload.image; // Ambil data gambar dari flow context\n\n// Konversi gambar ke format BYTEA (hex)\nlet pictureHex = null;\nif (picture) {\n    pictureHex = '\\\\x' + picture.toString('hex'); // Format PostgreSQL BYTEA\n}\n\nmsg.image = pictureHex;\nmsg.family = msg.payload.form.family;\nmsg.subfamily = msg.payload.form.subfamily;\nmsg.item_no = item_no;\nmsg.item_name = item_name;\nmsg.vendor = vendor;\nmsg.price = price;\nmsg.prev_item_no = flow.get(\"item_no\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 860,
+        "wires": [
+            [
+                "da93a03e7654e22a"
+            ]
+        ]
+    },
+    {
+        "id": "da93a03e7654e22a",
+        "type": "postgrestor",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Update Data",
+        "query": "UPDATE master_sku \nSET item_no='{{msg.item_no}}', family='{{msg.family}}', subfamily='{{msg.subfamily}}', \nitem_name='{{msg.item_name}}', vendor ='{{msg.vendor}}', price={{msg.price}},\nimage='{{msg.image}}',filename='{{msg.filename}}',image_type='{{msg.type}}'\nWHERE item_no='{{msg.prev_item_no}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 1070,
+        "y": 860,
+        "wires": [
+            [
+                "3dde646c5d8bc79c"
+            ]
+        ]
+    },
+    {
+        "id": "3dde646c5d8bc79c",
+        "type": "switch",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "property": "payload.rowCount",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1250,
+        "y": 860,
+        "wires": [
+            [
+                "476c8db18d670473",
+                "0ce04d7db2a53bc9"
+            ]
+        ]
+    },
+    {
+        "id": "0ce04d7db2a53bc9",
+        "type": "template",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Data updated into Database succesfully!",
+        "output": "str",
+        "x": 1400,
+        "y": 860,
+        "wires": [
+            [
+                "cb024c7faaa2c8cb"
+            ]
+        ]
+    },
+    {
+        "id": "cb024c7faaa2c8cb",
+        "type": "ui-notification",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "ui": "e146701c9c6788b4",
+        "position": "top right",
+        "colorDefault": true,
+        "color": "#000000",
+        "displayTime": "3",
+        "showCountdown": true,
+        "outputs": 1,
+        "allowDismiss": true,
+        "dismissText": "Close",
+        "allowConfirm": false,
+        "confirmText": "Confirm",
+        "raw": true,
+        "className": "",
+        "name": "",
+        "x": 1430,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4304c4ca9cad61fc",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "0668c0f80649c812",
+        "name": "link in 6",
+        "links": [
+            "84ca340d2cf399ea"
+        ],
+        "x": 205,
+        "y": 540,
+        "wires": [
+            [
+                "4fbd4d2aad6d0444"
+            ]
+        ]
+    },
+    {
+        "id": "afa1833daeddd026",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 320,
+        "wires": [
+            [
+                "01a2eb8e0d87015e"
+            ]
+        ]
+    },
+    {
+        "id": "23665233ab92b6cf",
+        "type": "inject",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "props": [
+            {
+                "p": "enabled",
+                "v": "false",
+                "vt": "bool"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 360,
+        "wires": [
+            [
+                "7e5735aa8ab2d8d0"
+            ]
+        ]
+    },
+    {
+        "id": "7e5735aa8ab2d8d0",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "false",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 360,
+        "wires": [
+            [
+                "01a2eb8e0d87015e"
+            ]
+        ]
+    },
+    {
+        "id": "d0fbd7855187bbe4",
+        "type": "link in",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "link in 7",
+        "links": [
+            "107d1cf6bdaf5702"
+        ],
+        "x": 155,
+        "y": 400,
+        "wires": [
+            [
+                "7e5735aa8ab2d8d0"
+            ]
+        ]
+    },
+    {
+        "id": "c8bc4235b36c8c05",
+        "type": "ui-button",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "group": "d8630a65694c92bb",
+        "name": "",
+        "label": "No Image",
+        "order": 1,
+        "width": "6",
+        "height": "1",
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 160,
+        "y": 180,
+        "wires": [
+            [
+                "8d43bef34e282889",
+                "5d13d01c2d14f198"
+            ]
+        ]
+    },
+    {
+        "id": "01a2eb8e0d87015e",
+        "type": "ui-form",
+        "z": "92c0497934ccde86",
+        "g": "e02c76df6250da4f",
+        "name": "",
+        "group": "d8630a65694c92bb",
+        "label": "",
+        "order": 3,
+        "width": "6",
+        "height": "1",
+        "options": [
+            {
+                "label": "Item No",
+                "key": "item_no",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Family",
+                "key": "family",
+                "type": "dropdown",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sub Family",
+                "key": "subfamily",
+                "type": "dropdown",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Item Name",
+                "key": "item_name",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Vendor",
+                "key": "vendor",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Price",
+                "key": "price",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "item_no": "",
+            "family": "",
+            "subfamily": "",
+            "item_name": "",
+            "vendor": "",
+            "price": ""
+        },
+        "payload": "",
+        "submit": "Submit",
+        "cancel": "Clear",
+        "resetOnSubmit": true,
+        "topic": "form",
+        "topicType": "str",
+        "splitLayout": "",
+        "className": "",
+        "passthru": false,
+        "dropdownOptions": [
+            {
+                "dropdown": "family",
+                "value": "IPhone",
+                "label": "IPhone"
+            },
+            {
+                "dropdown": "family",
+                "value": "Android",
+                "label": "Android"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Case",
+                "label": "Case"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Screen Protector",
+                "label": "Screen Protector"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Charger",
+                "label": "Charger"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Power Bank",
+                "label": "Power Bank"
+            }
+        ],
+        "x": 390,
+        "y": 320,
+        "wires": [
+            [
+                "59d4ea084081a19b"
+            ]
+        ]
+    },
+    {
+        "id": "e837883237dc8bc6",
+        "type": "ui-form",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "group": "7db7be465c2815ce",
+        "label": "",
+        "order": 4,
+        "width": "4",
+        "height": "1",
+        "options": [
+            {
+                "label": "Item No",
+                "key": "item_no",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Family",
+                "key": "family",
+                "type": "dropdown",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sub Family",
+                "key": "subfamily",
+                "type": "dropdown",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Item Name",
+                "key": "item_name",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Vendor",
+                "key": "vendor",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Price",
+                "key": "price",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "item_no": "",
+            "family": "",
+            "subfamily": "",
+            "item_name": "",
+            "vendor": "",
+            "price": ""
+        },
+        "payload": "",
+        "submit": "Update",
+        "cancel": "Clear",
+        "resetOnSubmit": true,
+        "topic": "form",
+        "topicType": "str",
+        "splitLayout": "",
+        "className": "",
+        "passthru": false,
+        "dropdownOptions": [
+            {
+                "dropdown": "family",
+                "value": "IPhone",
+                "label": "IPhone"
+            },
+            {
+                "dropdown": "family",
+                "value": "Android",
+                "label": "Android"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Case",
+                "label": "Case"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Screen Protector",
+                "label": "Screen Protector"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Charger",
+                "label": "Charger"
+            },
+            {
+                "dropdown": "subfamily",
+                "value": "Power Bank",
+                "label": "Power Bank"
+            }
+        ],
+        "x": 450,
+        "y": 760,
+        "wires": [
+            [
+                "73e2bed92a538cb1"
+            ]
+        ]
+    },
+    {
+        "id": "8f9ed8b26a7d8f92",
+        "type": "ui-button",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "group": "7db7be465c2815ce",
+        "name": "",
+        "label": "No Image Change",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 190,
+        "y": 860,
+        "wires": [
+            [
+                "7c9e22c1ec5a3a80"
+            ]
+        ]
+    },
+    {
+        "id": "d59bd508f5bf0480",
+        "type": "change",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 800,
+        "wires": [
+            [
+                "e837883237dc8bc6"
+            ]
+        ]
+    },
+    {
+        "id": "3b92bc9376dd503a",
+        "type": "switch",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "",
+        "property": "payload.image",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 730,
+        "y": 860,
+        "wires": [
+            [
+                "3ea30b4465b85e67"
+            ],
+            [
+                "87029537caa2c969"
+            ]
+        ]
+    },
+    {
+        "id": "87029537caa2c969",
+        "type": "function",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "function 196",
+        "func": "const item_no = msg.payload.form.item_no;\nconst item_name = msg.payload.form.item_name;\nconst vendor = msg.payload.form.vendor;\nconst price = msg.payload.form.price;\n\nmsg.family = msg.payload.form.family;\nmsg.subfamily = msg.payload.form.subfamily;\nmsg.item_no = item_no;\nmsg.item_name = item_name;\nmsg.vendor = vendor;\nmsg.price = price;\nmsg.prev_item_no = flow.get(\"item_no\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 900,
+        "wires": [
+            [
+                "9833d8b1d67d96c3"
+            ]
+        ]
+    },
+    {
+        "id": "9833d8b1d67d96c3",
+        "type": "postgrestor",
+        "z": "92c0497934ccde86",
+        "g": "a4309563af45d9f4",
+        "name": "Update Data",
+        "query": "UPDATE master_sku \nSET item_no='{{msg.item_no}}', family='{{msg.family}}', subfamily='{{msg.subfamily}}', \nitem_name='{{msg.item_name}}', vendor ='{{msg.vendor}}', price={{msg.price}}\nWHERE item_no='{{msg.prev_item_no}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 1070,
+        "y": 900,
+        "wires": [
+            [
+                "3dde646c5d8bc79c"
+            ]
+        ]
+    },
+    {
+        "id": "b56c9208550abc13",
+        "type": "ui-button",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "group": "475018338d019f57",
+        "name": "",
+        "label": "Show All Data",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 160,
+        "y": 100,
+        "wires": [
+            [
+                "78ab41439ed4661b"
+            ]
+        ]
+    },
+    {
+        "id": "78ab41439ed4661b",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "name": "Get Data All",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price,filename, image_type\nFROM master_sku order by family",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 350,
+        "y": 100,
+        "wires": [
+            [
+                "73caa6874b04a962"
+            ]
+        ]
+    },
+    {
+        "id": "73caa6874b04a962",
+        "type": "function",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "name": "array",
+        "func": "var i;\nvar list_data = [];\nvar image_type\n\nfor (i = 0; i < msg.payload.rows.length; i++) {\n    image_type = msg.payload.rows[i].image_type.replace(/&#x2F;/g, \"/\");\n    list_data.push({\n        \"Item No\": msg.payload.rows[i].item_no,\n        \"Family\": msg.payload.rows[i].family,\n        \"Sub Family\": msg.payload.rows[i].subfamily,\n        \"Item Name\": msg.payload.rows[i].item_name,\n        \"Vendor\": msg.payload.rows[i].vendor,\n        \"Price\": msg.payload.rows[i].price,\n        \"Filename\": msg.payload.rows[i].filename,\n        //\"Image\": \"data:\" + image_type + \";base64,\" + msg.payload.rows[0].image\n    });\n}\n\nmsg.payload = list_data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 100,
+        "wires": [
+            [
+                "0338f4ce3f09e43f"
+            ]
+        ]
+    },
+    {
+        "id": "0338f4ce3f09e43f",
+        "type": "ui-table",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "group": "475018338d019f57",
+        "name": "",
+        "label": "Data",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "maxrows": 0,
+        "passthru": false,
+        "autocols": true,
+        "showSearch": true,
+        "selectionType": "click",
+        "columns": [],
+        "mobileBreakpoint": "sm",
+        "mobileBreakpointType": "defaults",
+        "action": "replace",
+        "x": 690,
+        "y": 100,
+        "wires": [
+            [
+                "70f6de2071240101"
+            ]
+        ]
+    },
+    {
+        "id": "c9fbd88e6b90002b",
+        "type": "ui-dropdown",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "group": "475018338d019f57",
+        "name": "",
+        "label": "Family",
+        "tooltip": "",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "passthru": false,
+        "multiple": false,
+        "chips": false,
+        "clearable": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 890,
+        "y": 260,
+        "wires": [
+            [
+                "3f38526a850d3b73"
+            ]
+        ]
+    },
+    {
+        "id": "a5144be6eb77632f",
+        "type": "inject",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 260,
+        "wires": [
+            [
+                "20b9e7ae0835a23b"
+            ]
+        ]
+    },
+    {
+        "id": "20b9e7ae0835a23b",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "Get Data Family",
+        "query": "SELECT distinct family\nFROM master_sku order by family",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 360,
+        "y": 260,
+        "wires": [
+            [
+                "2e232407940d903c"
+            ]
+        ]
+    },
+    {
+        "id": "2e232407940d903c",
+        "type": "function",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "function 197",
+        "func": "var list_data = msg.payload.rows.map(function (row) {\n    return row['family'];\n});\n\nmsg.payload = list_data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 260,
+        "wires": [
+            [
+                "6f6092323e499d9b"
+            ]
+        ]
+    },
+    {
+        "id": "6f6092323e499d9b",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "options",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 720,
+        "y": 260,
+        "wires": [
+            [
+                "c9fbd88e6b90002b"
+            ]
+        ]
+    },
+    {
+        "id": "3f38526a850d3b73",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "family",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 260,
+        "wires": [
+            [
+                "1a4bbc7735642d5b",
+                "805af0364d8b0b8a"
+            ]
+        ]
+    },
+    {
+        "id": "192348a937870f06",
+        "type": "ui-dropdown",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "group": "475018338d019f57",
+        "name": "",
+        "label": "Sub Family",
+        "tooltip": "",
+        "order": 3,
+        "width": "4",
+        "height": "1",
+        "passthru": false,
+        "multiple": false,
+        "chips": false,
+        "clearable": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 910,
+        "y": 320,
+        "wires": [
+            [
+                "aac4bae0d6f7025b"
+            ]
+        ]
+    },
+    {
+        "id": "1a4bbc7735642d5b",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "Get Data Sub",
+        "query": "SELECT distinct subfamily\nFROM master_sku\nWHERE family='{{msg.payload}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 360,
+        "y": 320,
+        "wires": [
+            [
+                "9ebeb30209251f23"
+            ]
+        ]
+    },
+    {
+        "id": "9ebeb30209251f23",
+        "type": "function",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "function 198",
+        "func": "var list_data = msg.payload.rows.map(function (row) {\n    return row['subfamily'];\n});\n\nmsg.payload = list_data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 320,
+        "wires": [
+            [
+                "cbfc9820e058c50c"
+            ]
+        ]
+    },
+    {
+        "id": "cbfc9820e058c50c",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "options",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 720,
+        "y": 320,
+        "wires": [
+            [
+                "192348a937870f06"
+            ]
+        ]
+    },
+    {
+        "id": "aac4bae0d6f7025b",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "subfamily",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "family",
+                "pt": "msg",
+                "to": "family",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 320,
+        "wires": [
+            [
+                "63ba135aef2f492f"
+            ]
+        ]
+    },
+    {
+        "id": "805af0364d8b0b8a",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "Get Data All",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price,filename, image_type\nFROM master_sku\nWHERE family='{{msg.payload}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 1310,
+        "y": 260,
+        "wires": [
+            [
+                "846481c1da2d6ac7"
+            ]
+        ]
+    },
+    {
+        "id": "77f70db4eeb42f51",
+        "type": "function",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "name": "array",
+        "func": "var i;\nvar list_data = [];\nvar image_type\n\nfor (i = 0; i < msg.payload.rows.length; i++) {\n    image_type = msg.payload.rows[i].image_type.replace(/&#x2F;/g, \"/\");\n    list_data.push({\n        \"Item No\": msg.payload.rows[i].item_no,\n        \"Family\": msg.payload.rows[i].family,\n        \"Sub Family\": msg.payload.rows[i].subfamily,\n        \"Item Name\": msg.payload.rows[i].item_name,\n        \"Vendor\": msg.payload.rows[i].vendor,\n        \"Price\": msg.payload.rows[i].price,\n        \"Filename\": msg.payload.rows[i].filename,\n        //\"Image\": \"data:\" + image_type + \";base64,\" + msg.payload.rows[0].image\n    });\n}\n\nmsg.payload = list_data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 140,
+        "wires": [
+            [
+                "0338f4ce3f09e43f"
+            ]
+        ]
+    },
+    {
+        "id": "846481c1da2d6ac7",
+        "type": "link out",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "link out 6",
+        "mode": "link",
+        "links": [
+            "5ef8cfa2e2577761"
+        ],
+        "x": 1435,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "5ef8cfa2e2577761",
+        "type": "link in",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "name": "link in 8",
+        "links": [
+            "846481c1da2d6ac7",
+            "6f80de33d09744b4"
+        ],
+        "x": 405,
+        "y": 140,
+        "wires": [
+            [
+                "77f70db4eeb42f51"
+            ]
+        ]
+    },
+    {
+        "id": "63ba135aef2f492f",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "Get Data All",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price,filename, image_type\nFROM master_sku\nWHERE family='{{msg.family}}'\nAND subfamily='{{msg.payload}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 1310,
+        "y": 320,
+        "wires": [
+            [
+                "6f80de33d09744b4"
+            ]
+        ]
+    },
+    {
+        "id": "6f80de33d09744b4",
+        "type": "link out",
+        "z": "d19d1b39aea72fe2",
+        "g": "13d7d8b6ccced234",
+        "name": "link out 7",
+        "mode": "link",
+        "links": [
+            "5ef8cfa2e2577761"
+        ],
+        "x": 1435,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "76406dda19635858",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "item_no",
+                "pt": "msg",
+                "to": "payload[\"Item No\"]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 240,
+        "y": 440,
+        "wires": [
+            [
+                "d63eda6d327441e6"
+            ]
+        ]
+    },
+    {
+        "id": "d63eda6d327441e6",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "Show",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"groups\":{\"show\":[\"View Data:View Details\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 410,
+        "y": 440,
+        "wires": [
+            [
+                "10c07a947623e7b9",
+                "0c84fa0dbdaf333c"
+            ]
+        ]
+    },
+    {
+        "id": "10c07a947623e7b9",
+        "type": "ui-control",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "ui": "e146701c9c6788b4",
+        "events": "all",
+        "x": 600,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "70f6de2071240101",
+        "type": "link out",
+        "z": "d19d1b39aea72fe2",
+        "g": "30a44f7dbd5832f6",
+        "name": "link out 8",
+        "mode": "link",
+        "links": [
+            "35af08a8678ca208"
+        ],
+        "x": 815,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "35af08a8678ca208",
+        "type": "link in",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "link in 9",
+        "links": [
+            "70f6de2071240101"
+        ],
+        "x": 95,
+        "y": 440,
+        "wires": [
+            [
+                "76406dda19635858"
+            ]
+        ]
+    },
+    {
+        "id": "0c84fa0dbdaf333c",
+        "type": "postgrestor",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "Get Image",
+        "query": "SELECT item_no, family, subfamily, item_name, vendor, price, encode(image, 'base64') AS image,filename, image_type\nFROM master_sku\nWhere item_no='{{msg.item_no}}'",
+        "postgresDB": "1d9b463538f6e32c",
+        "output": true,
+        "outputs": 1,
+        "throwErrors": false,
+        "x": 790,
+        "y": 440,
+        "wires": [
+            [
+                "7d8f9705eaa57b36",
+                "0905be74a732044c",
+                "3de1b7056fa4e72f",
+                "e3d507cf9e46b9cd",
+                "ed3e0116094706fc"
+            ]
+        ]
+    },
+    {
+        "id": "7d8f9705eaa57b36",
+        "type": "function",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "function 199",
+        "func": "let image_type = msg.payload.rows[0].image_type.replace(/&#x2F;/g, \"/\");\nlet image = \"data:\" + image_type + \";base64,\" + msg.payload.rows[0].image;\nmsg.payload = {\n    image: image\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 440,
+        "wires": [
+            [
+                "d4c506e4e9628f9c"
+            ]
+        ]
+    },
+    {
+        "id": "d4c506e4e9628f9c",
+        "type": "ui-template",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "group": "e3e9d3899dee502c",
+        "page": "",
+        "ui": "",
+        "name": "Display image",
+        "order": 5,
+        "width": "6",
+        "height": "1",
+        "head": "",
+        "format": "<template>\n    <div class=\"image-container\">\n        <img v-if=\"msg?.payload?.image\" :src=\"msg.payload.image\" style=\"height: 320px;\" />\n    </div>\n</template>\n\n<script>\nexport default {\n    data() {\n        return {\n            mounted: false\n        };\n    },\n    mounted() {\n        this.mounted = true;\n    }\n};\n</script>\n\n<style scoped>\n.image-container {\n    display: flex;\n    justify-content: center; /* Tengah secara horizontal */\n    align-items: center; /* Tengah secara vertikal */\n    width: 100%; /* Sesuaikan dengan group */\n    height: 100%; /* Sesuaikan dengan group */\n}\n</style>\n",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1180,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6f644654b0107871",
+        "type": "ui-text",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "group": "e3e9d3899dee502c",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Item No:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 1160,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "0905be74a732044c",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rows[0].item_no",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 480,
+        "wires": [
+            [
+                "6f644654b0107871"
+            ]
+        ]
+    },
+    {
+        "id": "3de1b7056fa4e72f",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rows[0].item_name",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 520,
+        "wires": [
+            [
+                "3f9efb78e3588a73"
+            ]
+        ]
+    },
+    {
+        "id": "3f9efb78e3588a73",
+        "type": "ui-text",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "group": "e3e9d3899dee502c",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Item Name:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 1170,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "e3d507cf9e46b9cd",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rows[0].price",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 560,
+        "wires": [
+            [
+                "e118e011d78661af"
+            ]
+        ]
+    },
+    {
+        "id": "e118e011d78661af",
+        "type": "ui-text",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "group": "e3e9d3899dee502c",
+        "order": 4,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Price:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 1150,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "ed3e0116094706fc",
+        "type": "change",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rows[0].vendor",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 600,
+        "wires": [
+            [
+                "38b49a66b6191b56"
+            ]
+        ]
+    },
+    {
+        "id": "38b49a66b6191b56",
+        "type": "ui-text",
+        "z": "d19d1b39aea72fe2",
+        "g": "71024861cde00873",
+        "group": "e3e9d3899dee502c",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Vendor:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 1160,
+        "y": 600,
+        "wires": []
+    }
+]
